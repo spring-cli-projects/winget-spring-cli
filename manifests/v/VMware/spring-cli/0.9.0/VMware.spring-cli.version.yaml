@@ -1,0 +1,8 @@
+# Generated with JReleaser 1.12.0 at 2024-05-23T12:20:43.644401732Z
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.4.0.schema.json
+
+PackageIdentifier: VMware.spring-cli
+PackageVersion: 0.9.0
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.4.0
